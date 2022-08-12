@@ -1,0 +1,66 @@
+.main {
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    gap: 10px;
+}
+.container{
+    display: flex;
+    justify-content: center;
+  
+  
+   
+}
+.mainData{
+    margin-top: 20px;
+    padding: 30px;
+    box-shadow: rgba(0, 0, 0, 0.16) 0px 1px 4px;
+    border-radius: 10px;
+    background-color:#eeeeee
+}
+.budgetbtn {
+    height: 55px;
+    
+
+}
+.expbtn{
+    /* width: 2000px; */
+
+}
+
+.budget {
+    display: flex;
+    justify-content: center;
+    flex-direction: row;
+    gap: 20px;
+}
+
+.table {
+    display: flex;
+    justify-content: center;
+
+}
+
+.remainingBudget {
+    width: 300px;
+    margin-bottom: 20px;
+
+}
+
+.card {
+
+    margin-bottom: 20px;
+    width: 300px;
+
+
+}
+
+.totalExpesne {
+    margin-bottom: 20px;
+    width: 300px;
+
+}
+
+.icon {
+    color: red
+}
